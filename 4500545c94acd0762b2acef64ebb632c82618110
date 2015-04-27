@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_193fa9d7",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-27T17:16:14Z",
+      "side": 1,
+      "message": "consider extracting the method for buy and sell cases",
+      "revId": "4500545c94acd0762b2acef64ebb632c82618110",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
