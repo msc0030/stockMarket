@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_f933ad11",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1004733
+      },
+      "writtenOn": "2015-04-27T17:14:57Z",
+      "side": 1,
+      "message": "remove comments stating what to do",
+      "revId": "14967b8d6f28798367eb7d45da60a260e19a3983",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
