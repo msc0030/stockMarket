@@ -59,6 +59,75 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_d1720510",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-28T15:52:04Z",
+      "side": 1,
+      "message": "Consider refactoring and extracting the for loop into its own function which calculates the total number of stocks being sold (gives you your sellers number). getTotalSellAmount might be a decent name",
+      "range": {
+        "startLine": 113,
+        "startChar": 2,
+        "endLine": 117,
+        "endChar": 3
+      },
+      "revId": "14967b8d6f28798367eb7d45da60a260e19a3983",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f17581fa",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-28T15:52:04Z",
+      "side": 1,
+      "message": "Consider refactoring and extracting the for loop into its own function which calculates the total number of stocks being purchased (gives you your buyers number). getTotalBuyAmount might be a decent name",
+      "range": {
+        "startLine": 118,
+        "startChar": 2,
+        "endLine": 122,
+        "endChar": 3
+      },
+      "revId": "14967b8d6f28798367eb7d45da60a260e19a3983",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_11681d1c",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-28T15:52:04Z",
+      "side": 1,
+      "message": "Ternary operators are unreadable in general. If you wish to keep this as one line in the function then extract this into another function getMaximumTransactionsForTrade.",
+      "range": {
+        "startLine": 124,
+        "startChar": 2,
+        "endLine": 124,
+        "endChar": 53
+      },
+      "revId": "14967b8d6f28798367eb7d45da60a260e19a3983",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_ff39cda4",
         "filename": "order/OrderBook.java",
         "patchSetId": 1
