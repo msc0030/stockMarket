@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_515bb52d",
+        "filename": "market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004736
+      },
+      "writtenOn": "2015-04-28T15:08:42Z",
+      "side": 1,
+      "message": "Market class comment?",
+      "revId": "59881cd74dd1c7b2435b3ef86b468929a40a7bef",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
