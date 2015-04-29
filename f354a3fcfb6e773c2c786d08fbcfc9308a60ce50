@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_fad551e5",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004783
+      },
+      "writtenOn": "2015-04-29T14:02:23Z",
+      "side": 1,
+      "message": "Inaccurate comment, 14 traders are being created here",
+      "range": {
+        "startLine": 25,
+        "startChar": 2,
+        "endLine": 25,
+        "endChar": 22
+      },
+      "revId": "f354a3fcfb6e773c2c786d08fbcfc9308a60ce50",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5a062587",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1004783
+      },
+      "writtenOn": "2015-04-29T14:02:23Z",
+      "side": 1,
+      "message": "Remove auto-generated comment",
+      "range": {
+        "startLine": 57,
+        "startChar": 3,
+        "endLine": 57,
+        "endChar": 37
+      },
+      "revId": "f354a3fcfb6e773c2c786d08fbcfc9308a60ce50",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3a0b698f",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1004783
+      },
+      "writtenOn": "2015-04-29T14:02:23Z",
+      "side": 1,
+      "message": "Remove auto-generated comment",
+      "range": {
+        "startLine": 82,
+        "startChar": 3,
+        "endLine": 82,
+        "endChar": 37
+      },
+      "revId": "f354a3fcfb6e773c2c786d08fbcfc9308a60ce50",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9afc1d74",
+        "filename": "client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1004783
+      },
+      "writtenOn": "2015-04-29T14:02:23Z",
+      "side": 1,
+      "message": "Remove auto-generated comment",
+      "range": {
+        "startLine": 108,
+        "startChar": 3,
+        "endLine": 108,
+        "endChar": 37
+      },
+      "revId": "f354a3fcfb6e773c2c786d08fbcfc9308a60ce50",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
