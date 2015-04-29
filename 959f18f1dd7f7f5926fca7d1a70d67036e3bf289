@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_7aea01ad",
+        "filename": "util/OrderUtility.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1004783
+      },
+      "writtenOn": "2015-04-29T13:57:27Z",
+      "side": 1,
+      "message": "For readability, break these conditions up into variables with shorter names above the if statement and put those variables inside the if(). I.e. if(buyOrders || sellOrders)",
+      "range": {
+        "startLine": 12,
+        "startChar": 6,
+        "endLine": 13,
+        "endChar": 80
+      },
+      "revId": "959f18f1dd7f7f5926fca7d1a70d67036e3bf289",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
