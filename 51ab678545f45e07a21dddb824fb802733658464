@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d86a2280",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-29T05:37:17Z",
+      "side": 1,
+      "message": "Extract this into method getTotalSellAmount. The refactoring tool can do it automatically. Code smell Overly long function",
+      "range": {
+        "startLine": 100,
+        "startChar": 2,
+        "endLine": 104,
+        "endChar": 3
+      },
+      "revId": "51ab678545f45e07a21dddb824fb802733658464",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_b86766b6",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-29T05:37:17Z",
+      "side": 1,
+      "message": "Extract this into method getTotalBuyAmount. The refactoring tool can do it automatically. Code smell Overly long function.",
+      "range": {
+        "startLine": 105,
+        "startChar": 2,
+        "endLine": 109,
+        "endChar": 3
+      },
+      "revId": "51ab678545f45e07a21dddb824fb802733658464",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3813760e",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 1004735
+      },
+      "writtenOn": "2015-04-29T05:37:17Z",
+      "side": 1,
+      "message": "Extract this into a method getMaxTransactionsForTrade. The refactoring tool can do it automatically. Code smell is Conditional Complexity.",
+      "range": {
+        "startLine": 111,
+        "startChar": 2,
+        "endLine": 111,
+        "endChar": 53
+      },
+      "revId": "51ab678545f45e07a21dddb824fb802733658464",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
