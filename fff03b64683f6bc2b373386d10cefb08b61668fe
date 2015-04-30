@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_a5d9f1f4",
+        "filename": "order/OrderBook.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1004740
+      },
+      "writtenOn": "2015-04-30T13:04:31Z",
+      "side": 1,
+      "message": "Consider making this variable name more descriptive.",
+      "range": {
+        "startLine": 12,
+        "startChar": 1,
+        "endLine": 12,
+        "endChar": 9
+      },
+      "revId": "fff03b64683f6bc2b373386d10cefb08b61668fe",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
