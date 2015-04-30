@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_40063387",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1004737
+      },
+      "writtenOn": "2015-04-30T00:44:35Z",
+      "side": 1,
+      "message": "Unnecessary call to super",
+      "revId": "e395f7891cfa8a0c4ba1c3380a349a5a855a86f4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_200b378f",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1004737
+      },
+      "writtenOn": "2015-04-30T00:44:35Z",
+      "side": 1,
+      "message": "variable name is meaningless and should be more descriptive",
+      "revId": "e395f7891cfa8a0c4ba1c3380a349a5a855a86f4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_a0f6078d",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1004737
+      },
+      "writtenOn": "2015-04-30T00:44:35Z",
+      "side": 1,
+      "message": "variable name is meaningless and should be more descriptive",
+      "revId": "e395f7891cfa8a0c4ba1c3380a349a5a855a86f4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
