@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_25cea12e",
+        "filename": "market/Market.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004740
+      },
+      "writtenOn": "2015-04-30T13:02:40Z",
+      "side": 1,
+      "message": "Consider adding a comment to explain what the class does.",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 21
+      },
+      "revId": "48be2d241130b9c91c7915f724f9c6e3089d5b50",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
